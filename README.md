@@ -25,14 +25,11 @@ I am a dedicated and passionate Software Engineering student at Universiti Tekno
 
 ## Recommended Courses
 - Data Structures and Algorithms
-- Web Development Bootcamp by Udemy
-- Machine Learning by Coursera
+- Machine Learning by CoursE
 
 
-
-
-## Projects
+## TIS
 - 
 ## Links
 - 
-- 
+- [LinkedIn](https://www.linkedin.com/in/noor-lailawati-abu-bakar-89471334a/)
