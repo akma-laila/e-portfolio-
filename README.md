@@ -5,7 +5,6 @@
 
 ## Headlines
 - Software Engineering Student at Universiti Teknologi Malaysia (UTM)
-- Aspiring Software Developer
 
 ## Summary
 I am a dedicated and passionate Software Engineering student at Universiti Teknologi Malaysia (UTM). I have a strong interest in software development, web technologies, and data science. I am eager to apply my skills and knowledge in real-world projects and contribute to innovative solutions.
